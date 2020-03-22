@@ -65,7 +65,8 @@
             speed: 0.25
             fragBullets: 1
             fragBullet: fireball
-         }
+          }
+        }
       }
     }
   }
