@@ -18,8 +18,8 @@
       "splashRadius": 800,
       "hitSound": "nuclear",
       "hitEffect": "nuclearcloud",
-      "lifetime": 4000,
-      "speed": "0.5",
+      "lifetime": 2000,
+      "speed": "1",
       "ammoMultiplier": 1,
     }
   },
