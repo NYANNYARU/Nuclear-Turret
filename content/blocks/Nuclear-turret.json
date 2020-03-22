@@ -9,7 +9,7 @@
   "health": 5000,
   "maxAmmo": 1,
   "ammo": {
-    "Nuclear-Bomb": {
+    "Nuclear-bomb": {
       "type": "BasicBulletType",
       "bulletSprite": "FatMan",
       "bulletWidth": 50,
