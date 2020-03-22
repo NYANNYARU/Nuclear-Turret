@@ -10,5 +10,27 @@
   "maxAmmo": 1,
   "ammo": {
     "Nuclear Bomb": {
-      "type": "BasicBulletType"
+      "type": "BasicBulletType",
+      "bulletSprite": "FatMan",
+      "bulletWidth": 50,
+      "bulletHeight": 50,
+      "splashDamage": 10000,
+      "splashRadius": 800,
+      "hitSound": "nuclear",
+      "hitEffect": "nuclearcloud",
+      "lifetime": 4000,
+      "speed": "0.5",
+      "ammoMultiplier": 1,
+    }
+  },
+  "requirements": [
+		{ "item": "copper", "amount": 1000 },
+    { "item": "lead", "amount": 1000 },
+    { "item": "silicon", "amount": 1000 },
+    { "item": "titanium", "amount": 1000 },
+    { "item": "graphite", "amount": 1000 },
+    { "item": "surge-alloy", "amount": 1000 }
+	],
+  "categry": "turret",
+  "research": "meltdown"
 }
