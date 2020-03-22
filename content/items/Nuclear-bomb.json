@@ -3,5 +3,5 @@
   "name": "NuclearBomb",
   "description": "[red]nuclear",
   "color": "101010",
-  "explosiveness": 100,
+  "explosiveness": 10000,
 }
