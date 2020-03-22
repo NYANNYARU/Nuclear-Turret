@@ -16,7 +16,7 @@
       "bulletHeight": "50",
       "bulletShrink": 0.33,
       "splashDamage": 10000,
-      "splashRadius": 800,
+      "splashDamageRadius": 800,
       "hitSound": "nuclear",
       "hitEffect": "nuclearcloud",
       "speed": 2,
