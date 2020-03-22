@@ -10,9 +10,10 @@
   ammo: {
     Nuclear-bomb: {
       type: ArtilleryBulletType
-      bulletSprite: mindustry-nuclear-bomb-turret-fatman
-      bulletWidth: 40
+      bulletWidth: 50
       bulletHeight: 50
+      frontColor: ff0000
+      backColor: ff0000
       bulletShrink: 0.33
       splashDamage: 10000
       splashDamageRadius: 1500
