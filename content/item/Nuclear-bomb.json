@@ -1,6 +1,6 @@
 {
   "type": "resource",
-  "name": "NuclearBomb"
+  "name": "NuclearBomb",
   "description": "[red]nuclear",
   "color": "101010",
   "explosiveness": 100,
