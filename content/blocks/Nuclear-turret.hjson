@@ -15,7 +15,7 @@
       bulletHeight: 50
       bulletShrink: 0.33
       splashDamage: 10000
-      splashDamageRadius: 800
+      splashDamageRadius: 4000
       hitSound: nuclear
       hitEffect: nuclearcloud
       speed: 2
