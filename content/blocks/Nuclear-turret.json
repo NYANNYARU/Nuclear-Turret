@@ -11,7 +11,7 @@
   "ammo": {
     "Nuclear-bomb": {
       "type": "BasicBulletType",
-      "bulletSprite": "missile",
+      "bulletSprite": "mindustry-nuclear-bomb-turret-bullet-FatMan",
       "bulletShrink": 0.33,
       "splashDamage": 10000,
       "splashRadius": 800,
