@@ -12,6 +12,8 @@
     "Nuclear-bomb": {
       "type": "BasicBulletType",
       "bulletSprite": "FatMan",
+      "bulletWidth": 50,
+      "bulletHeight": 60,
       "splashDamage": 10000,
       "splashRadius": 800,
       "hitSound": "nuclear",
