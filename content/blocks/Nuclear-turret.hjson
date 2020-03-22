@@ -48,7 +48,7 @@
           hitSound: explosion
           hitEffect: smoke
           lifetime: 70
-          speed: 0.5
+          speed: 1
           fragBullets: 3
           fragBullet: {
             type: flakBulletType
@@ -62,7 +62,7 @@
             hitSound: explosion
             hitEffect: smoke
             lifetime: 70
-            speed: 0.25
+            speed: 1
             fragBullets: 1
             fragBullet: fireball
           }
