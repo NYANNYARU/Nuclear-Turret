@@ -46,7 +46,7 @@
           splashDamage: 1500
           splashDamageRadius: 106.6665
           hitSound: explosion
-          hitEffect smoke
+          hitEffect: smoke
           lifetime: 70
           speed: 0.5
           fragBullets: 3
@@ -60,7 +60,7 @@
             splashDamage: 500
             splashDamageRadius: 53.333
             hitSound: explosion
-            hitEffect smoke
+            hitEffect: smoke
             lifetime: 70
             speed: 0.25
             fragBullets: 1
