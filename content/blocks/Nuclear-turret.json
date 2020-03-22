@@ -1,2 +1,14 @@
 {
+  "type": "ArtilleryTurret",
+  "name": "Nuclear launch pad",
+  "description": "nuclear bomb",
+  "range": 2000,
+  "targetAir": true,
+  "reload": 3600,
+  "size": 6,
+  "health": 5000,
+  "maxAmmo": 1,
+  "ammo": {
+    "Nuclear Bomb": {
+      "type": "BasicBulletType"
 }
