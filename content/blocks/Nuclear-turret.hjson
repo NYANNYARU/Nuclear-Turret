@@ -23,7 +23,7 @@
       ammoMultiplier: 1
       fragBullets: 10
       fragBullet: {
-        type: ArtilleyBulletType
+        type: FlakBulletType
         bulletWidth: 25
         bulletHeight: 25
         frontColor: 990000
@@ -37,7 +37,7 @@
         speed: 1
         fragBullets: 5
         fragBullet: {
-          type: ArtilleyBulletType
+          type: flakBulletType
           bulletWidth: 12.5
           bulletHeight: 12.5
           frontColor: 480000
@@ -51,7 +51,7 @@
           speed: 0.5
           fragBullets: 3
           fragBullet: {
-            type: ArtilleyBulletType
+            type: flakBulletType
             bulletWidth: 6.25
             bulletHeight: 6.25
             frontColor: 240000
