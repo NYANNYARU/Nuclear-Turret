@@ -12,6 +12,8 @@
     "Nuclear-bomb": {
       "type": "BasicBulletType",
       "bulletSprite": "mindustry-nuclear-bomb-turret-bullet-FatMan",
+      "bulletWidth": "40",
+      "bulletHeight": "50",
       "bulletShrink": 0.33,
       "splashDamage": 10000,
       "splashRadius": 800,
