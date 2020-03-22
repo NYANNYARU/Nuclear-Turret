@@ -16,7 +16,7 @@
       backColor: ff0000
       bulletShrink: 0.33
       splashDamage: 10000
-      splashDamageRadius: 1500
+      splashDamageRadius: 640
       hitSound: nuclear
       hitEffect: nuclearcloud
       speed: 2
