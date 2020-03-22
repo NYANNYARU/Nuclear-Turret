@@ -14,13 +14,59 @@
       bulletHeight: 50
       frontColor: ff0000
       backColor: ff0000
-      bulletShrink: 0.33
-      splashDamage: 10000
+      bulletShrink: 0.66
+      splashDamage: 6000
       splashDamageRadius: 640
       hitSound: nuclear
       hitEffect: nuclearcloud
       speed: 2
       ammoMultiplier: 1
+      fragBullets: 10
+      fragBullet: {
+        type: ArtilleyBulletType
+        bulletWidth: 25
+        bulletHeight: 25
+        frontColor: 990000
+        backColor: 990000
+        bulletShrink: 0.66
+        splashDamage: 3000
+        splashDamageRadius: 213.333333
+        hitSound: explosion
+        hitEffect nuclearsmoke
+        lifetime: 70
+        speed: 1
+        fragBullets: 5
+        fragBullet: {
+          type: ArtilleyBulletType
+          bulletWidth: 12.5
+          bulletHeight: 12.5
+          frontColor: 480000
+          backColor: 480000
+          bulletShrink: 0.66
+          splashDamage: 1500
+          splashDamageRadius: 106.6665
+          hitSound: explosion
+          hitEffect smoke
+          lifetime: 70
+          speed: 0.5
+          fragBullets: 3
+          fragBullet: {
+            type: ArtilleyBulletType
+            bulletWidth: 6.25
+            bulletHeight: 6.25
+            frontColor: 240000
+            backColor: 240000
+            bulletShrink: 0.66
+            splashDamage: 500
+            splashDamageRadius: 53.333
+            hitSound: explosion
+            hitEffect smoke
+            lifetime: 70
+            speed: 0.25
+            fragBullets: 1
+            fragBullet: fireball
+         }
+      }
     }
   }
   requirements: [
