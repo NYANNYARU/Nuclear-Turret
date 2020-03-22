@@ -3,7 +3,7 @@
   description: nuclear bomb
   range: 2000
   reload: 3600
-  size" 4
+  size: 4
   health: 5000
   maxAmmo: 1
   ammo: {
@@ -14,7 +14,7 @@
       bulletHeight: 50
       bulletShrink: 0.33
       splashDamage: 10000
-      splashDamageRadius": 800
+      splashDamageRadius: 800
       hitSound: nuclear
       hitEffect: nuclearcloud
       speed: 2
