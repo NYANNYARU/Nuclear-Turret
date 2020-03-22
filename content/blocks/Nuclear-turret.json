@@ -12,6 +12,7 @@
     "Nuclear-bomb": {
       "type": "BasicBulletType",
       "bulletSprite": "FatMan",
+      "bulletShrink": 0.33,
       "bulletWidth": 50,
       "bulletHeight": 60,
       "splashDamage": 10000,
