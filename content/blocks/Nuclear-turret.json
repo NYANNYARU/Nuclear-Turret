@@ -10,7 +10,7 @@
   "maxAmmo": 1,
   "ammo": {
     "Nuclear-bomb": {
-      "type": "BasicBulletType",
+      "type": "ArtilleryBulletType",
       "bulletSprite": "mindustry-nuclear-bomb-turret-fatman",
       "bulletWidth": "40",
       "bulletHeight": "50",
