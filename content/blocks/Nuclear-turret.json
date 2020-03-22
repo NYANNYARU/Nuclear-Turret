@@ -31,6 +31,6 @@
     { "item": "graphite", "amount": 1000 },
     { "item": "surge-alloy", "amount": 1000 }
 	],
-  "categry": "turret",
+  "category": "turret",
   "research": "meltdown"
 }
