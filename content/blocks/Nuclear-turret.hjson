@@ -64,7 +64,7 @@
             lifetime: 70
             speed: 1
             fragBullets: 1
-            fragBullet: 
+            fragBullet: {
               type: FlakBulletType
               bulletWidth: 3.125
               bulletHeight: 3.125
@@ -79,7 +79,7 @@
               hitEffect: fire
               lifetime: 70
               speed: 1
-              
+            } 
           }
         }
       }
