@@ -27,7 +27,7 @@
         bulletWidth: 25
         bulletHeight: 25
         bulletShrink: 0.66
-        bulletSprite: mindustry-nuclear-bomb-turret-fragnuclearred
+        bulletSprite: mindustry-nuclear-bomb-turret-fragnuclearRed
         splashDamage: 3000
         splashDamageRadius: 213.333333
         hitSound: explosion
