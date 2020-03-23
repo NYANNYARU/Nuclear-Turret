@@ -13,7 +13,7 @@
       bulletWidth: 50
       bulletHeight: 50
       bulletShrink: 0.66
-      bulletSprite: mindustry-nuclear-bomb-turret-fatman
+      bulletSprite: nuclear-turret-FatMan
       splashDamage: 6000
       splashDamageRadius: 640
       hitSound: nuclear
@@ -40,7 +40,7 @@
           bulletWidth: 12.5
           bulletHeight: 12.5
           bulletShrink: 0.66
-          bulletSprite: mindustry-nuclear-bomb-turret-fragnuclearorange
+          bulletSprite: nuclear-turret-FragNuclearOrange
           splashDamage: 1500
           splashDamageRadius: 106.6665
           hitSound: explosion
@@ -53,7 +53,7 @@
             bulletWidth: 6.25
             bulletHeight: 6.25
             bulletShrink: 0.66
-            bulletSprite: mindustry-nuclear-bomb-turret-fragnuclearyellow
+            bulletSprite: nuclear-turret-FragNuclearYellow
             splashDamage: 500
             splashDamageRadius: 53.333
             hitSound: explosion
@@ -66,7 +66,7 @@
               bulletWidth: 3.125
               bulletHeight: 3.125
               bulletShrink: 0.66
-              bulletSprite: mindustry-nuclear-bomb-turret-fragnucleargreen
+              bulletSprite: nuclear-turret-FragNuclearGreen
               splashDamage: 250
               splashDamageRadius: 35
               incendAmount: 2
