@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: FatMan-maker
+description: fatman maker
+outputItem: Nuclear-bomb/1
+craftTime: 3600
+craftEffect: hitLancer
+consumes: {
+  power: 10
+  items: {
+    items: [
+      lead/250
+      silicon/100
+      graphite/500
+      blast-compound/ 50
+      thorium/200
+    ]
+  }
+}
+requirements: [
+  lead/500
+  silicon/500
+  thorium/100
+  plastanium/50  
+]
+category: turret
+research: graphite-press
