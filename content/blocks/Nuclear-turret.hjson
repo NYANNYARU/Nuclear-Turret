@@ -18,7 +18,7 @@
       splashDamageRadius: 640
       hitSound: nuclear
       hitEffect: nuclearcloud
-      hitShake: 50
+      hitShake: 100
       speed: 2
       ammoMultiplier: 1
       fragBullets: 10
@@ -27,11 +27,12 @@
         bulletWidth: 25
         bulletHeight: 25
         bulletShrink: 0.66
-        bulletSprite: mindustry-nuclear-bomb-turret-fragnuclearRed
+        bulletSprite: mindustry-nuclear-bomb-turret-FragNuclearRed
         splashDamage: 3000
         splashDamageRadius: 213.333333
         hitSound: explosion
         hitEffect: nuclearsmoke
+        hitShake: 50
         lifetime: 70
         speed: 1
         fragBullets: 5
@@ -45,6 +46,7 @@
           splashDamageRadius: 106.6665
           hitSound: explosion
           hitEffect: smoke
+          hitShake: 25
           lifetime: 70
           speed: 1
           fragBullets: 3
@@ -59,6 +61,7 @@
             hitSound: explosion
             hitEffect: smoke
             lifetime: 70
+            hitShake: 15
             speed: 1
             fragBullets: 1
             fragBullet: {
@@ -73,6 +76,7 @@
               incendChance: 0.5
               hitSound: explosion
               hitEffect: fire
+              hitShake: 5
               lifetime: 70
               speed: 1
             } 
