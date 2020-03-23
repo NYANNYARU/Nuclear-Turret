@@ -2,11 +2,12 @@ type: GenericCrafter
 name: FatMan-maker
 description: fatman maker
 size: 8
+itemCapacity: 1000
 outputItem: Nuclear-bomb/1
 craftTime: 3600
 craftEffect: hitLancer
 consumes: {
-  power: 10
+  power: 10.5
   items: {
     items: [
       lead/250
