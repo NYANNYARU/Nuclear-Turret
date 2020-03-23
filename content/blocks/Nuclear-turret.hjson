@@ -12,9 +12,9 @@
       type: ArtilleryBulletType
       bulletWidth: 50
       bulletHeight: 50
-      frontColor: ff0000
-      backColor: ff0000
       bulletShrink: 0.66
+      bulletSprite: mindustry-nuclear-bomb-turret-FatMan
+      bulletSprite: mindustry-nuclear-bomb-turret-FatMan-back
       splashDamage: 6000
       splashDamageRadius: 640
       hitSound: nuclear
@@ -26,9 +26,9 @@
         type: FlakBulletType
         bulletWidth: 25
         bulletHeight: 25
-        frontColor: 990000
-        backColor: 990000
         bulletShrink: 0.66
+        bulletSprite: mindustry-nuclear-bomb-turret-FragNuclearRed
+        bulletSprite: mindustry-nuclear-bomb-turret-FragNuclearRed-back
         splashDamage: 3000
         splashDamageRadius: 213.333333
         hitSound: explosion
@@ -40,9 +40,9 @@
           type: flakBulletType
           bulletWidth: 12.5
           bulletHeight: 12.5
-          frontColor: 480000
-          backColor: 480000
           bulletShrink: 0.66
+          bulletSprite: mindustry-nuclear-bomb-turret-FragNuclearOrange
+          bulletSprite: mindustry-nuclear-bomb-turret-FragNuclearOrange-back
           splashDamage: 1500
           splashDamageRadius: 106.6665
           hitSound: explosion
@@ -54,9 +54,9 @@
             type: flakBulletType
             bulletWidth: 6.25
             bulletHeight: 6.25
-            frontColor: 240000
-            backColor: 240000
             bulletShrink: 0.66
+            bulletSprite: mindustry-nuclear-bomb-turret-FragNuclearYellow
+            bulletSprite: mindustry-nuclear-bomb-turret-FragNuclearYellow-back
             splashDamage: 500
             splashDamageRadius: 53.333
             hitSound: explosion
@@ -64,7 +64,22 @@
             lifetime: 70
             speed: 1
             fragBullets: 1
-            fragBullet: fireball
+            fragBullet: 
+              type: ArtilleryBulletType
+              bulletWidth: 3.125
+              bulletHeight: 3.125
+              bulletShrink: 0.66
+              bulletSprite: mindustry-nuclear-bomb-turret-FragNuclearGreen
+              bulletSprite: mindustry-nuclear-bomb-turret-FragNuclearGreen-back
+              splashDamage: 250
+              splashDamageRadius: 35
+              incendAmount: 2
+              incendChance: 0.5
+              hitSound: explosion
+              hitEffect: fire
+              lifetime: 70
+              speed: 1
+              
           }
         }
       }
