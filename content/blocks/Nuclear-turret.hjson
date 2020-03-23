@@ -18,7 +18,7 @@
       splashDamageRadius: 640
       hitSound: nuclear
       hitEffect: nuclearcloud
-      hitShake: 100
+      hitShake: 200
       speed: 2
       ammoMultiplier: 1
       fragBullets: 10
@@ -32,7 +32,7 @@
         splashDamageRadius: 213.333333
         hitSound: explosion
         hitEffect: nuclearsmoke
-        hitShake: 50
+        hitShake: 100
         lifetime: 70
         speed: 1
         fragBullets: 5
@@ -46,7 +46,7 @@
           splashDamageRadius: 106.6665
           hitSound: explosion
           hitEffect: smoke
-          hitShake: 25
+          hitShake: 50
           lifetime: 70
           speed: 1
           fragBullets: 3
@@ -61,7 +61,7 @@
             hitSound: explosion
             hitEffect: smoke
             lifetime: 70
-            hitShake: 15
+            hitShake: 25
             speed: 1
             fragBullets: 1
             fragBullet: {
@@ -76,7 +76,7 @@
               incendChance: 0.5
               hitSound: explosion
               hitEffect: fire
-              hitShake: 5
+              hitShake: 12.25
               lifetime: 70
               speed: 1
             } 
